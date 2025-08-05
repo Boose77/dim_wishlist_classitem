@@ -1,3 +1,6 @@
+title:Class Items - Titan
+description:Credit to /u/engineeeeer7
+
 dimwishlist:item=266021826&perks=1476923952,1476923956
 dimwishlist:item=266021826&perks=3573490511,1476923955
 dimwishlist:item=266021826&perks=3573490510,3573490503
