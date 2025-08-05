@@ -1,3 +1,6 @@
+title:Class Items - Warlock
+description:Credit to /u/engineeeeer7
+
 dimwishlist:item=2273643087&perks=183430253,1476923957
 dimwishlist:item=2273643087&perks=183430253,183430246
 dimwishlist:item=2273643087&perks=1476923953,1476923957
