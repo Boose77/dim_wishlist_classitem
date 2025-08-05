@@ -1,5 +1,5 @@
 title:Boose's Class Items Shopping List - All
-description:Credit to /u/engineeeeer7
+description:All relavent Solipsism rolls. Credit to engineeeeer, Aegis, 
 
 dimwishlist:item=2809120022&perks=3751917998,1476923955
 dimwishlist:item=2809120022&perks=3751917995,3751917994
@@ -33,4 +33,5 @@ dimwishlist:item=266021826&perks=1476923953,1476923956
 
 //notes:Warlock S Tier
 dimwishlist:item=2273643087&perks=1476923953,1476923956
+
 
