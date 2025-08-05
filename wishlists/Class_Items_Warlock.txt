@@ -1,22 +1,8 @@
 title:Boose's Class Items Shopping List - Warlock
 description:All relavent Solipsism rolls. Credit to engineeeeer, Aegis, 
 
-dimwishlist:item=2273643087&perks=183430253,1476923957
-dimwishlist:item=2273643087&perks=183430253,183430246
-dimwishlist:item=2273643087&perks=1476923953,1476923957
-dimwishlist:item=2273643087&perks=183430253,183430249
-dimwishlist:item=2273643087&perks=183430250,1476923955
-dimwishlist:item=2273643087&perks=183430253,1476923955
-dimwishlist:item=2273643087&perks=183430255,183430249
-dimwishlist:item=2273643087&perks=183430252,183430247
-dimwishlist:item=2273643087&perks=183430250,183430246
-dimwishlist:item=2273643087&perks=183430252,1476923955
-dimwishlist:item=2273643087&perks=183430253,183430254
-dimwishlist:item=2273643087&perks=183430250,183430254
-dimwishlist:item=2273643087&perks=183430252,1476923956
-dimwishlist:item=2273643087&perks=1476923953,1476923957
-
-//notes:S Tier
+//notes:S Tier Combinations
 dimwishlist:item=2273643087&perks=1476923953,1476923956
+
 
 
