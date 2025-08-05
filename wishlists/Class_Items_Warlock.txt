@@ -1,5 +1,5 @@
 title:Class Items - Warlock
-description:Credit to /u/engineeeeer7
+description:All relavent Solipsism rolls. Credit to engineeeeer, Aegis, 
 
 dimwishlist:item=2273643087&perks=183430253,1476923957
 dimwishlist:item=2273643087&perks=183430253,183430246
@@ -15,3 +15,6 @@ dimwishlist:item=2273643087&perks=183430253,183430254
 dimwishlist:item=2273643087&perks=183430250,183430254
 dimwishlist:item=2273643087&perks=183430252,1476923956
 dimwishlist:item=2273643087&perks=1476923953,1476923957
+
+//notes:S Tier
+dimwishlist:item=2273643087&perks=1476923953,1476923956
