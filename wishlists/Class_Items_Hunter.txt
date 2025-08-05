@@ -4,5 +4,6 @@ description:All relevant Relativism rolls. Credit to engineeeeer, Aegis,
 //notes:Priority Shopping List for Hunters.
 dimwishlist:item=2809120022&perks=3751917996,3751917992
 
-
 //notes:General Shopping List for Hunters.
+
+//notes:Trash rolls
