@@ -1,17 +1,11 @@
-title:Class Items - Titan
-description:Credit to /u/engineeeeer7
+title:Boose's Class Items Shopping List - Titan
+description:All relevant Solipsism rolls. Credit to engineeeeer, Aegis, 
 
-dimwishlist:item=266021826&perks=1476923952,1476923956
-dimwishlist:item=266021826&perks=3573490511,1476923955
-dimwishlist:item=266021826&perks=3573490510,3573490503
-dimwishlist:item=266021826&perks=1476923953,1476923955
-dimwishlist:item=266021826&perks=1476923953,3573490503
-dimwishlist:item=266021826&perks=3573490510,1476923956
-dimwishlist:item=266021826&perks=3573490505,1476923955
-dimwishlist:item=266021826&perks=1476923953,3573490504
-dimwishlist:item=266021826&perks=3573490510,3573490504
-dimwishlist:item=266021826&perks=3573490509,1476923956
-dimwishlist:item=266021826&perks=1476923953,3573490504
-dimwishlist:item=266021826&perks=1476923953,1476923957
-dimwishlist:item=266021826&perks=3573490509,3573490504
-dimwishlist:item=266021826&perks=1476923953,1476923956
+//notes:Priority Shopping List for Titans.
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923955
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+//notes:General Shopping List for Titans.
+
+//notes:Trash rolls
