@@ -1,3 +1,6 @@
+title:Class Items - Hunter
+description:Credit to /u/engineeeeer7
+
 dimwishlist:item=2809120022&perks=3751917998,1476923955
 dimwishlist:item=2809120022&perks=3751917995,3751917994
 dimwishlist:item=2809120022&perks=3751917995,1476923955
@@ -11,4 +14,5 @@ dimwishlist:item=2809120022&perks=3751917997,1476923957
 dimwishlist:item=2809120022&perks=3751917998,3751917993
 dimwishlist:item=2809120022&perks=1476923953,1476923957
 dimwishlist:item=2809120022&perks=3751917996,3751917994
+
 dimwishlist:item=2809120022&perks=1476923952,1476923956
