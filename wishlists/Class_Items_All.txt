@@ -20,15 +20,6 @@ dimwishlist:item=2809120022&perks=3751917996,3751917994
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=3751917998,3751917993
 
-//notes:Trash rolls
-dimwishlist:item=-2809120022&perks=1476923952,3751917991  
-dimwishlist:item=-2809120022&perks=1476923954,1476923956  
-dimwishlist:item=-2809120022&perks=1476923954,3751917994  
-dimwishlist:item=-2809120022&perks=1476923954,3751917992  
-dimwishlist:item=-2809120022&perks=1476923954,3751917991  
-dimwishlist:item=-2809120022&perks=1476923954,3751917990  
-dimwishlist:item=-2809120022&perks=3751917998,3751917991
-
 //notes:Priority Shopping List for Titans.
 dimwishlist:item=266021826&perks=3573490509,3573490504
 
@@ -45,8 +36,6 @@ dimwishlist:item=266021826&perks=3573490509,1476923956
 dimwishlist:item=266021826&perks=3573490510,1476923956
 dimwishlist:item=266021826&perks=3573490510,3573490503
 dimwishlist:item=266021826&perks=3573490511,1476923955
-
-//notes:Trash Rolls
 
 //notes:Priority Shopping List for Warlocks.
 dimwishlist:item=2273643087&perks=1476923953,1476923957
@@ -67,16 +56,3 @@ dimwishlist:item=2273643087&perks=183430252,1476923955
 dimwishlist:item=2273643087&perks=183430253,183430254
 dimwishlist:item=2273643087&perks=183430250,183430254
 dimwishlist:item=2273643087&perks=183430252,1476923956
-
-
-//notes:Trash rolls
-
-
-
-
-
-
-
-
-
-
