@@ -1,5 +1,5 @@
 title:Boose's Class Items Shopping List - Hunter
-description:All relevant Relativism rolls. Credit to engineeeeer, Aegis, 
+description:All relevant Relativism rolls.
 
 //notes:Priority Shopping List for Hunters.
 dimwishlist:item=2809120022&perks=1476923953,1476923957  
@@ -28,4 +28,5 @@ dimwishlist:item=-2809120022&perks=1476923954,3751917992
 dimwishlist:item=-2809120022&perks=1476923954,3751917991  
 dimwishlist:item=-2809120022&perks=1476923954,3751917990  
 dimwishlist:item=-2809120022&perks=3751917998,3751917991
+
 
