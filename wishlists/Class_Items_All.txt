@@ -4,6 +4,7 @@ description:All relevant Relativism, Stoicism, and Solipsism rolls. Credit to en
 //notes:Priority Shopping List for Hunters.
 dimwishlist:item=2809120022&perks=3751917996,3751917992
 
+
 //notes:General Shopping List for Hunters.
 dimwishlist:item=2809120022&perks=1476923952,1476923956
 dimwishlist:item=2809120022&perks=1476923953,1476923955
@@ -13,7 +14,6 @@ dimwishlist:item=2809120022&perks=1476923953,3751917994
 dimwishlist:item=2809120022&perks=3751917994,3751917996
 dimwishlist:item=2809120022&perks=3751917995,1476923955
 dimwishlist:item=2809120022&perks=3751917995,3751917994
-dimwishlist:item=2809120022&perks=3751917996,3751917992
 dimwishlist:item=2809120022&perks=3751917996,3751917994
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=3751917997,1476923955
@@ -27,6 +27,19 @@ dimwishlist:item=2809120022&perks=3751917998,1476923955
 dimwishlist:item=266021826&perks=3573490509,3573490504
 
 //notes:General Shopping List for Titans.
+dimwishlist:item=266021826&perks=1476923952,1476923956
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=1476923953,1476923957
+dimwishlist:item=266021826&perks=1476923953,3573490503
+dimwishlist:item=266021826&perks=1476923953,3573490504
+dimwishlist:item=266021826&perks=3573490504,3573490509
+dimwishlist:item=266021826&perks=3573490504,3573490510
+dimwishlist:item=266021826&perks=3573490505,1476923955
+dimwishlist:item=266021826&perks=3573490509,1476923956
+dimwishlist:item=266021826&perks=3573490510,1476923956
+dimwishlist:item=266021826&perks=3573490510,3573490503
+dimwishlist:item=266021826&perks=3573490511,1476923955
 
 //notes:Trash Rolls
 
@@ -38,4 +51,5 @@ dimwishlist:item=2273643087&perks=183430253,1476923957
 //notes:General Shopping List for Warlocks.
 
 //notes:Trash rolls
+
 
