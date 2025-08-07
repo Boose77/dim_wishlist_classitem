@@ -1,0 +1,25 @@
+title:Boose's Class Items Shopping List - All Classes
+description:All relevant Relativism, Stoicism, and Solipsism rolls. Credit to engineeeeer, Aegis,
+
+//notes:Priority Shopping List for Hunters.
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+
+//notes:General Shopping List for Hunters.
+
+//notes:Trash rolls
+
+//notes:Priority Shopping List for Titans.
+dimwishlist:item=266021826&perks=3573490509,3573490504
+
+//notes:General Shopping List for Titans.
+
+//notes:Trash Rolls
+
+//notes:Priority Shopping List for Warlocks.
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923955
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+//notes:General Shopping List for Warlocks.
+
+//notes:Trash rolls
