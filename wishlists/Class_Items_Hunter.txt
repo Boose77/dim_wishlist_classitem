@@ -3,8 +3,9 @@ description:All relevant Relativism rolls.
 
 
 //notes:Priority Shopping List for Hunters
+dimwishlist:item=2809120022&perks=1476923953,1476923957  
 dimwishlist:item=2809120022&perks=1476923953,3751917994  
-dimwishlist:item=2809120022&perks=3751917996,3751917992  
+dimwishlist:item=-2809120022&perks=3751917996,3751917992  
 dimwishlist:item=2809120022&perks=3751917997,1476923955  
 dimwishlist:item=2809120022&perks=3751917998,1476923955  
 
@@ -31,4 +32,5 @@ dimwishlist:item=-2809120022&perks=1476923954,3751917992
 dimwishlist:item=-2809120022&perks=1476923954,3751917991
 dimwishlist:item=-2809120022&perks=1476923954,3751917990
 dimwishlist:item=-2809120022&perks=3751917998,3751917991
+
 
