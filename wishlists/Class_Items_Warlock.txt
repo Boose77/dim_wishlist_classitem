@@ -1,9 +1,5 @@
 title:Boose's Class Items Shopping List - Warlock
-description:All relevant Solipsism rolls. Credit to engineeeeer, Aegis, 
+description:All relevant Solipsism rolls.
 
-//notes:Priority Shopping List for Warlocks.
-dimwishlist:item=2273643087&perks=1476923953,1476923956
-dimwishlist:item=2273643087&perks=183430250,1476923955
-dimwishlist:item=2273643087&perks=183430253,1476923957
+//notes:S Tier Trait Combos
 
-//notes:General Shopping List for Warlocks.
