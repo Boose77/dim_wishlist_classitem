@@ -1,4 +1,4 @@
-# DIM Wish List for Exotic Class Items
+# A DIM Wish List for Exotic Class Items
 Collection of wish lists for not only the most effective/popular trait combos, but also a trash list to help keep things clean.
 
 ## Wish List Sources:
