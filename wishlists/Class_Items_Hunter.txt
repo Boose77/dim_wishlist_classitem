@@ -1,7 +1,6 @@
 title:Boose's Class Items Shopping List - Hunter
 description:All relevant Relativism rolls.
 
-
 //notes:S Tier Trait Combos
 dimwishlist:item=2809120022&perks=1476923952,1476923956
 dimwishlist:item=2809120022&perks=1476923953,1476923956
@@ -12,7 +11,6 @@ dimwishlist:item=2809120022&perks=3751917996,3751917992
 dimwishlist:item=2809120022&perks=3751917997,1476923955
 dimwishlist:item=2809120022&perks=3751917997,1476923957
 dimwishlist:item=2809120022&perks=3751917998,1476923955
-
 
 //notes:A Tier Trait Combos
 dimwishlist:item=2809120022&perks=1476923952,3751917992
