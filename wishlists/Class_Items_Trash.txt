@@ -1,0 +1,12 @@
+title:Boose's Class Items Shopping List - Trash
+description:All trash Relativism, Stoicism, and Solipsism rolls. Credit to engineeeeer, Aegis,
+
+//notes:Trash rolls
+dimwishlist:item=-2809120022&perks=1476923953,1476923957  
+dimwishlist:item=-2809120022&perks=1476923952,3751917991
+dimwishlist:item=-2809120022&perks=1476923954,1476923956
+dimwishlist:item=-2809120022&perks=1476923954,3751917994
+dimwishlist:item=-2809120022&perks=1476923954,3751917992
+dimwishlist:item=-2809120022&perks=1476923954,3751917991
+dimwishlist:item=-2809120022&perks=1476923954,3751917990
+dimwishlist:item=-2809120022&perks=3751917998,3751917991
