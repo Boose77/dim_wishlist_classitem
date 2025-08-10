@@ -1,4 +1,4 @@
-# A DIM Wish List for Exotic Class Items
+# A DIM Wish List for Exotic Class Items (PvE)
 Collection of wish lists for not only the most effective/popular trait combos, but also a trash list to help keep things clean.
 
 ## Wish List Sources:
@@ -8,7 +8,7 @@ Aegis - [Endgame Analysis](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C
         [Boss Damage](https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/edit?gid=639621230#gid=639621230)
 
 ## How to use:
-Copy and paste one of the blocks below to import it into DIM.
+Copy and paste one of the copy blocks below to import it into DIM.
 #### All 3 classes + trash 
 ```
 https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Hunter.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Titan.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Warlock.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
