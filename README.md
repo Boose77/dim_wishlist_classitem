@@ -8,7 +8,7 @@ Collection of wish lists for not only the most effective/popular trait combos, b
 Copy and paste one of the copy blocks below to import it into DIM.
 #### All 3 classes + trash 
 ```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Hunter.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Titan.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Warlock.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
+https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_All.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
 ```
 #### All 3 classes
 ```
