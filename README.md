@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main
 ```
 #### All 3 classes
 ```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Hunter.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Titan.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Warlock.txt
+https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_All.txt
 ```
 #### Hunter only
 ```
